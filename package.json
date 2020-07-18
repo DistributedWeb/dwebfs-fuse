@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/hyperdrive-fuse.git"
+    "url": "git+https://github.com/andrewosh/dwebfs-fuse.git"
   },
   "keywords": [
-    "hyperdrive",
+    "dwebfs",
     "fuse"
   ],
   "author": "Andrew Osheroff <andrewosh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/hyperdrive-fuse/issues"
+    "url": "https://github.com/andrewosh/dwebfs-fuse/issues"
   },
-  "homepage": "https://github.com/andrewosh/hyperdrive-fuse#readme",
+  "homepage": "https://github.com/andrewosh/dwebfs-fuse#readme",
   "devDependencies": {
     "dwebx": "^1.0.0",
     "fs-xattr": "^0.3.0",
