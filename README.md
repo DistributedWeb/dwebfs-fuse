@@ -1,2 +1,2 @@
-# hyperdrive-fuse
-A FUSE filesystem for Hyperdrive
+# dwebfs-fuse
+A FUSE filesystem for DWebFs
